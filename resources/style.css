@@ -1,0 +1,10 @@
+body {
+    background: linear-gradient(0deg , rgb(255, 141, 47), rgb(82, 108, 253) );
+}
+
+a {
+    color: rgb(26, 0, 141)
+}
+a:visited {
+    color: rgb(26, 0, 141)
+}
